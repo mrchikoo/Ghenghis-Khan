@@ -1,0 +1,4 @@
+PyQt6>=6.6
+pypdf>=4.0
+pdf2docx>=0.5.8
+Pillow>=10.0

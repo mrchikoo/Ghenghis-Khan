@@ -1,0 +1,25 @@
+# Built app bundle (519 MB — rebuild with build_app.sh)
+Ghenghis Khan.app/
+*.app/
+
+# Virtual envs
+.venv/
+venv/
+
+# Generated artifacts
+AppIcon.icns
+AppIcon.iconset/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+*.swp
